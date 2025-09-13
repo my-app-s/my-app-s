@@ -14,6 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Django-f05454?logo=Django)
 ![Static Badge](https://img.shields.io/badge/Jinja-f05454?logo=jinja)
 ![Static Badge](https://img.shields.io/badge/Ruby-f05454?logo=Ruby)
+![Static Badge](https://img.shields.io/badge/Go-f05454?logo=Go)
 ![Static Badge](https://img.shields.io/badge/DaVinci_Resolve-594eee?logo=davinciresolve)
 ![Static Badge](https://img.shields.io/badge/Kdenlive-594eee?logo=Kdenlive)
 ![Static Badge](https://img.shields.io/badge/MPCBeats-594eee)
