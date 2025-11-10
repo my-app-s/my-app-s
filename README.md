@@ -29,6 +29,8 @@
 ![Static Badge](https://img.shields.io/badge/Figma-24214e?logo=Figma)
 ![Static Badge](https://img.shields.io/badge/MySQL-24214e?logo=MySQL)
 
+![Static Badge](https://img.shields.io/badge/Docker_compose-333333?logo=Docker)
+
 Follow me
 
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
