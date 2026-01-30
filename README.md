@@ -34,3 +34,27 @@
 Follow me
 
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
+
+### Certificates
+
+#### Stepik
+
+- [x] 2021 [Программирование на Python](https://stepik.org/cert/1028496)
+- [x] 2024 [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641)
+- [x] 2025 [The English alphabet](https://stepik.org/cert/2899658)
+- [x] 2025 [Software testing from scratch. Theory + Practice](https://stepik.org/cert/2827910)
+- [x] 2025 [Programming in Golang](https://stepik.org/cert/2981157)
+- [x] 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
+
+#### Sololearn
+
+- [x] 2021 [COURSE CERTIFICATE SQL](https://www.sololearn.com/en/certificates/CT-NDOUR87X)
+- [x] 2021 [COURSE CERTIFICATE Python for Beginners](https://www.sololearn.com/en/certificates/CT-BQ6T9O18)
+- [x] 2021 [COURSE CERTIFICATE Python Core](https://www.sololearn.com/en/certificates/CT-KIWHL5L7)
+- [x] 2021 [COURSE CERTIFICATE HTML](https://www.sololearn.com/en/certificates/CT-ETRVSDXT)
+- [x] 2021 [COURSE CERTIFICATE CSS](https://www.sololearn.com/en/certificates/CT-PNPTUELV)
+- [x] 2022 [COURSE CERTIFICATE Intermediate Python](https://www.sololearn.com/en/certificates/CT-K5PCIELQ)
+
+### YandexPracticum
+
+#### Learning, in proccess now *"Go-разработчик с нуля"*
