@@ -31,7 +31,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Docker_compose-333333?logo=Docker)
 
-Follow me
+*Follow me*
 
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
 
