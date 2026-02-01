@@ -45,6 +45,7 @@
 - [x] 2025 [Software testing from scratch. Theory + Practice](https://stepik.org/cert/2827910)
 - [x] 2025 [Programming in Golang](https://stepik.org/cert/2981157)
 - [x] 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
+- [x] 2026 [Markdown syntax](https://stepik.org/cert/3117009)
 
 #### Sololearn
 
