@@ -1,35 +1,43 @@
 [![HEADER](https://github.com/my-app-s/my-app-s/blob/main/assets/00000008%20image%20from%20ln%2096DPI%20export.png)](https://www.behance.net/StudioMRE)
 
-## Creative Technologist & Multimedia Artist | Painter & Digital Illustrator
+## Aspiring Full-Stack & Multi-Platform Developer | Go & Python — personal & learning projects
 
-### Language and tools
-<!-- ![mane](link) -->
-![Static Badge](https://img.shields.io/badge/Inkscape-8A2BE2?logo=Inkscape)
-![Static Badge](https://img.shields.io/badge/Krita-8A2BE2?logo=Krita)
-![Static Badge](https://img.shields.io/badge/GIMP-8A2BE2?logo=GIMP)
-![Static Badge](https://img.shields.io/badge/HTML5-f05454?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS-f05454?logo=CSS)
-![Static Badge](https://img.shields.io/badge/JavaScript-f05454?logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/Python-f05454?logo=Python)
-![Static Badge](https://img.shields.io/badge/Django-f05454?logo=Django)
-![Static Badge](https://img.shields.io/badge/Jinja-f05454?logo=jinja)
-![Static Badge](https://img.shields.io/badge/Ruby-f05454?logo=Ruby)
-![Static Badge](https://img.shields.io/badge/Go-f05454?logo=Go)
-![Static Badge](https://img.shields.io/badge/DaVinci_Resolve-594eee?logo=davinciresolve)
-![Static Badge](https://img.shields.io/badge/Kdenlive-594eee?logo=Kdenlive)
-![Static Badge](https://img.shields.io/badge/MPCBeats-594eee)
 
-![Static Badge](https://img.shields.io/badge/Linux-24214e?logo=Linux)
-![Static Badge](https://img.shields.io/badge/Bash-24214e?logo=gnubash)
-![Static Badge](https://img.shields.io/badge/PowerShell-24214e?logo=slashdot)
-![Static Badge](https://img.shields.io/badge/Docker-24214e?logo=Docker)
-![Static Badge](https://img.shields.io/badge/QEMU-24214e?logo=QEMU)
-![Static Badge](https://img.shields.io/badge/Git-24214e?logo=Git)
-![Static Badge](https://img.shields.io/badge/Blender-24214e?logo=Blender)
-![Static Badge](https://img.shields.io/badge/Figma-24214e?logo=Figma)
-![Static Badge](https://img.shields.io/badge/MySQL-24214e?logo=MySQL)
+- 💻 Languages
+    - ![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=go)
+    - ![Static Badge](https://img.shields.io/badge/Familiar-Python-3776AB?logo=python)
+    - ![Static Badge](https://img.shields.io/badge/Familiar-JavaScript-F7DF1E?logo=javascript)
 
-![Static Badge](https://img.shields.io/badge/Docker_compose-333333?logo=Docker)
+- ⚡ Familiar / Learning
+    - ![Static Badge](https://img.shields.io/badge/Familiar-Ruby-CC342D?logo=ruby)
+    - ![Static Badge](https://img.shields.io/badge/Familiar-Java-FF7800)
+
+- 🧠 Backend
+    - ![Static Badge](https://img.shields.io/badge/API-Rest%20API-009688)
+    - ![Static Badge](https://img.shields.io/badge/Django-092E20?logo=django)
+
+- 🌐 Frontend
+    - ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+    - ![Static Badge](https://img.shields.io/badge/CSS-663399?logo=css)
+
+- 🗄 Database
+    - ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+
+- 🖥 Desktop / Cross-Platform
+    - ![Static Badge](https://img.shields.io/badge/Go%20GUI%20&%20Windows%20automation-Fyne+user32.dll(personal%20project(autoclicker))-00ADD8)
+    - ![Static Badge](https://img.shields.io/badge/Python-Console%20Scripts(personal%20project)-3776AB)
+
+- ⚙ DevOps / Tools
+    - ![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+    - ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git)
+    - ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+    - ![Static Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
+
+- 🎨 Creative (secondary)
+    - ![Static Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender)
+    - ![Static Badge](https://img.shields.io/badge/Krita-3BABFF?logo=krita)
+    - ![Static Badge](https://img.shields.io/badge/Inkscape-000000?logo=inkscape)
+    - ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
 
 *Follow me*
 
@@ -46,6 +54,7 @@
 - [x] 2025 [Programming in Golang](https://stepik.org/cert/2981157)
 - [x] 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
 - [x] 2026 [Markdown syntax](https://stepik.org/cert/3117009)
+- [x] 2026 [Git and GitHub Basics](https://stepik.org/cert/3117145)
 
 #### Sololearn
 
