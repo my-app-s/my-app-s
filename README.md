@@ -4,13 +4,13 @@
 
 
 - 💻 Languages
-    - ![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=go)
-    - ![Static Badge](https://img.shields.io/badge/Familiar-Python-3776AB?logo=python)
-    - ![Static Badge](https://img.shields.io/badge/Familiar-JavaScript-F7DF1E?logo=javascript)
-
-- ⚡ Familiar / Learning
-    - ![Static Badge](https://img.shields.io/badge/Familiar-Ruby-CC342D?logo=ruby)
-    - ![Static Badge](https://img.shields.io/badge/Familiar-Java-FF7800)
+    - 📚 Learning
+        - ![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=go)
+    - ⚡ Familiar
+        - ![Static Badge](https://img.shields.io/badge/Familiar-Python-3776AB?logo=python)
+        - ![Static Badge](https://img.shields.io/badge/Familiar-JavaScript-F7DF1E?logo=javascript)
+        - ![Static Badge](https://img.shields.io/badge/Familiar-Ruby-CC342D?logo=ruby)
+        - ![Static Badge](https://img.shields.io/badge/Familiar-Java-FF7800)
 
 - 🧠 Backend
     - ![Static Badge](https://img.shields.io/badge/API-Rest%20API-009688)
