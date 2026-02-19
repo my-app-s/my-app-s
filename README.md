@@ -2,6 +2,7 @@
 
 ## Aspiring Full-Stack & Multi-Platform Developer | Go & Python — personal & learning projects
 
+---
 
 - 💻 Languages
     - 📚 Learning
