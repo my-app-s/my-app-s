@@ -2,8 +2,6 @@
 
 ## Aspiring Full-Stack & Multi-Platform Developer | Go & Python — personal & learning projects
 
----
-
 - 💻 Languages
     - 📚 Learning
         - ![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=go)
