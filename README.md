@@ -68,3 +68,4 @@
 ### YandexPracticum
 
 #### Learning, in proccess now *"Go-разработчик с нуля"*
+#### Learning, in proccess now *"Критическое мышление"*
