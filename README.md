@@ -75,5 +75,3 @@
 ##### *Follow me*
 
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
-
----
