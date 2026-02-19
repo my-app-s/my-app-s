@@ -8,40 +8,26 @@
         - ![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=go)
     - ⚡ Familiar
         - ![Static Badge](https://img.shields.io/badge/Familiar-Python-3776AB?logo=python)
-        - ![Static Badge](https://img.shields.io/badge/Familiar-JavaScript-F7DF1E?logo=javascript)
-        - ![Static Badge](https://img.shields.io/badge/Familiar-Ruby-CC342D?logo=ruby)
-        - ![Static Badge](https://img.shields.io/badge/Familiar-Java-FF7800)
+            ![Static Badge](https://img.shields.io/badge/Familiar-JavaScript-F7DF1E?logo=javascript)
+            ![Static Badge](https://img.shields.io/badge/Familiar-Ruby-CC342D?logo=ruby)
+            ![Static Badge](https://img.shields.io/badge/Familiar-Java-FF7800)
 
-- 🧠 Backend
-    - ![Static Badge](https://img.shields.io/badge/API-Rest%20API-009688)
-    - ![Static Badge](https://img.shields.io/badge/|-Django-092E20?logo=django)
+---
 
-- 🌐 Frontend
-    - ![Static Badge](https://img.shields.io/badge/|-HTML5-E34F26?logo=html5)
-    - ![Static Badge](https://img.shields.io/badge/|-CSS-663399?logo=css)
+| 🧠 Backend | 🌐 Frontend | 🗄 Database | ⚙ DevOps / Tools | 🎨 Creative (secondary) |
+|:-:|:-:|:-:|:-:|:-:|
+|![Static Badge](https://img.shields.io/badge/API-Rest%20API-009688)|![Static Badge](https://img.shields.io/badge/\|-HTML5-E34F26?logo=html5)|![Static Badge](https://img.shields.io/badge/\|-PostgreSQL-4169E1?logo=postgresql)|![Static Badge](https://img.shields.io/badge/\|-Linux-FCC624?logo=linux)|![Static Badge](https://img.shields.io/badge/\|-Blender-E87D0D?logo=blender)|
+|![Static Badge](https://img.shields.io/badge/\|-Django-092E20?logo=django)|![Static Badge](https://img.shields.io/badge/\|-CSS-663399?logo=css)||![Static Badge](https://img.shields.io/badge/\|-Git-F05032?logo=git)|![Static Badge](https://img.shields.io/badge/\|-Krita-3BABFF?logo=krita)|
+||||![Static Badge](https://img.shields.io/badge/\|-Docker-2496ED?logo=docker)|![Static Badge](https://img.shields.io/badge/\|-Inkscape-000000?logo=inkscape)|
+||||![Static Badge](https://img.shields.io/badge/\|-Bash-4EAA25?logo=gnubash)|![Static Badge](https://img.shields.io/badge/\|-Figma-F24E1E?logo=figma)|
 
-- 🗄 Database
-    - ![Static Badge](https://img.shields.io/badge/|-PostgreSQL-4169E1?logo=postgresql)
+---
 
 - 🖥 Desktop / Cross-Platform
     - ![Static Badge](https://img.shields.io/badge/Go%20GUI%20&%20Windows%20automation-Fyne+user32.dll(personal%20project(autoclicker))-00ADD8)
     - ![Static Badge](https://img.shields.io/badge/Python-Console%20Scripts(personal%20project)-3776AB)
 
-- ⚙ DevOps / Tools
-    - ![Static Badge](https://img.shields.io/badge/|-Linux-FCC624?logo=linux)
-    - ![Static Badge](https://img.shields.io/badge/|-Git-F05032?logo=git)
-    - ![Static Badge](https://img.shields.io/badge/|-Docker-2496ED?logo=docker)
-    - ![Static Badge](https://img.shields.io/badge/|-Bash-4EAA25?logo=gnubash)
-
-- 🎨 Creative (secondary)
-    - ![Static Badge](https://img.shields.io/badge/|-Blender-E87D0D?logo=blender)
-    - ![Static Badge](https://img.shields.io/badge/|-Krita-3BABFF?logo=krita)
-    - ![Static Badge](https://img.shields.io/badge/|-Inkscape-000000?logo=inkscape)
-    - ![Static Badge](https://img.shields.io/badge/|-Figma-F24E1E?logo=figma)
-
-*Follow me*
-
-[![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
+---
 
 ### Certificates
 
@@ -65,7 +51,22 @@
 - [x] 2021 [COURSE CERTIFICATE CSS](https://www.sololearn.com/en/certificates/CT-PNPTUELV)
 - [x] 2022 [COURSE CERTIFICATE Intermediate Python](https://www.sololearn.com/en/certificates/CT-K5PCIELQ)
 
-### YandexPracticum
+---
 
-#### Learning, in proccess now *"Go-разработчик с нуля"*
-#### Learning, in proccess now *"Критическое мышление"*
+#### YandexPracticum
+
+- learning, in proccess
+    - *"Go-разработчик с нуля"*
+    - *"Критическое мышление"*
+
+---
+
+<div align="center">
+
+| *Follow me* |
+| :-: |
+| [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE) |
+
+</div>
+
+---
