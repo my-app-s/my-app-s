@@ -14,16 +14,24 @@
 
 ---
 
-<div align="center">
-
-| 🧠 Backend | 🌐 Frontend | 🗄 Database | ⚙ DevOps / Tools | 🎨 Creative (secondary) |
-|:-:|:-:|:-:|:-:|:-:|
-|![Static Badge](https://img.shields.io/badge/API-Rest%20API-009688)|![Static Badge](https://img.shields.io/badge/\|-HTML5-E34F26?logo=html5)|![Static Badge](https://img.shields.io/badge/\|-PostgreSQL-4169E1?logo=postgresql)|![Static Badge](https://img.shields.io/badge/\|-Linux-FCC624?logo=linux)|![Static Badge](https://img.shields.io/badge/\|-Blender-E87D0D?logo=blender)|
-|![Static Badge](https://img.shields.io/badge/\|-Django-092E20?logo=django)|![Static Badge](https://img.shields.io/badge/\|-CSS-663399?logo=css)||![Static Badge](https://img.shields.io/badge/\|-Git-F05032?logo=git)|![Static Badge](https://img.shields.io/badge/\|-Krita-3BABFF?logo=krita)|
-||||![Static Badge](https://img.shields.io/badge/\|-Docker-2496ED?logo=docker)|![Static Badge](https://img.shields.io/badge/\|-Inkscape-000000?logo=inkscape)|
-||||![Static Badge](https://img.shields.io/badge/\|-Bash-4EAA25?logo=gnubash)|![Static Badge](https://img.shields.io/badge/\|-Figma-F24E1E?logo=figma)|
-
-</div>
+- 🧠 Backend
+    - ![Static Badge](https://img.shields.io/badge/API-Rest%20API-009688)
+        ![Static Badge](https://img.shields.io/badge/|-Django-092E20?logo=django)
+- 🌐 Frontend
+    - ![Static Badge](https://img.shields.io/badge/|-HTML5-E34F26?logo=html5)
+        ![Static Badge](https://img.shields.io/badge/|-CSS-663399?logo=css)
+- 🗄 Database
+    - ![Static Badge](https://img.shields.io/badge/|-PostgreSQL-4169E1?logo=postgresql)
+- ⚙ DevOps / Tools
+    - ![Static Badge](https://img.shields.io/badge/|-Linux-FCC624?logo=linux)
+        ![Static Badge](https://img.shields.io/badge/|-Git-F05032?logo=git)
+        ![Static Badge](https://img.shields.io/badge/|-Docker-2496ED?logo=docker)
+        ![Static Badge](https://img.shields.io/badge/|-Bash-4EAA25?logo=gnubash)
+- 🎨 Creative (secondary)
+    - ![Static Badge](https://img.shields.io/badge/|-Blender-E87D0D?logo=blender)
+        ![Static Badge](https://img.shields.io/badge/|-Krita-3BABFF?logo=krita)
+        ![Static Badge](https://img.shields.io/badge/|-Inkscape-000000?logo=inkscape)
+        ![Static Badge](https://img.shields.io/badge/|-Figma-F24E1E?logo=figma)
 
 ---
 
@@ -65,12 +73,8 @@
 
 ---
 
-<div align="center">
+##### *Follow me*
 
-| *Follow me* |
-| :-: |
-| [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE) |
-
-</div>
+[![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
 
 ---
