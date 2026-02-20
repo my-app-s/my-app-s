@@ -2,7 +2,7 @@
 
 ## Aspiring Full-Stack & Multi-Platform Developer | Go & Python — personal & learning projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=11A151C3&vCenter=true&random=true&width=670&lines=I+strive+to+reach+the+professional+level.;I+write+code+that+works%2C+not+just+runs.;I+think+like+an+engineer%2C+not+like+a+self-taught+person.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=66FF00FF&vCenter=true&random=true&width=670&lines=I+strive+to+reach+the+professional+level.;I+write+code+that+works%2C+not+just+runs.;I+think+like+an+engineer%2C+not+like+a+self-taught+person.)](https://git.io/typing-svg)
 
 ---
 
