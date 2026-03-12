@@ -75,7 +75,7 @@
 ## Yandex Practicum
 
 ### ✅ Completed
-- (2026) *Создание Telegram-бота*
+- [x] (2026) *Создание Telegram-бота*
 
 ### 🚧 In Progress
 - (2026) *Go-разработчик с нуля*
