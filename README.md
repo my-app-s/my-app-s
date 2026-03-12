@@ -70,6 +70,8 @@
 
 #### YandexPracticum
 
+- Complete
+    - *"Создание Telegram-бота"*
 - learning, in proccess
     - *"Go-разработчик с нуля"*
     - *"Критическое мышление"*
