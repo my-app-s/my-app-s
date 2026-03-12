@@ -3,7 +3,7 @@
 ## Aspiring Full-Stack & Multi-Platform Developer | Go & Python — personal & learning projects
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=322d2dff&vCenter=true&random=true&width=670&lines=I+strive+to+reach+the+professional+level.;I+write+code+that+works%2C+not+just+runs.;I+think+like+an+engineer%2C+not+like+a+self-taught+person.)](https://git.io/typing-svg)
 
-## 💻 Languages
+#### 💻 Languages
 - 📚 Learning
     - ![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=go)
 - ⚡ Familiar
@@ -12,30 +12,30 @@
         ![Static Badge](https://img.shields.io/badge/Familiar-Ruby-CC342D?logo=ruby)
         ![Static Badge](https://img.shields.io/badge/Familiar-Java-FF7800)
 
-## 🧠 Backend
+#### 🧠 Backend
 - ![Static Badge](https://img.shields.io/badge/API-Rest%20API-009688)
     ![Static Badge](https://img.shields.io/badge/|-Django-092E20?logo=django)
 
-## 🌐 Frontend
+#### 🌐 Frontend
 - ![Static Badge](https://img.shields.io/badge/|-HTML5-E34F26?logo=html5)
     ![Static Badge](https://img.shields.io/badge/|-CSS-663399?logo=css)
 
-## 🗄 Database
+#### 🗄 Database
 - ![Static Badge](https://img.shields.io/badge/|-PostgreSQL-4169E1?logo=postgresql)
 
-## ⚙ DevOps / Tools
+#### ⚙ DevOps / Tools
 - ![Static Badge](https://img.shields.io/badge/|-Linux-FCC624?logo=linux)
     ![Static Badge](https://img.shields.io/badge/|-Git-F05032?logo=git)
     ![Static Badge](https://img.shields.io/badge/|-Docker-2496ED?logo=docker)
     ![Static Badge](https://img.shields.io/badge/|-Bash-4EAA25?logo=gnubash)
 
-## 🎨 Creative (secondary)
+#### 🎨 Creative (secondary)
 - ![Static Badge](https://img.shields.io/badge/|-Blender-E87D0D?logo=blender)
     ![Static Badge](https://img.shields.io/badge/|-Krita-3BABFF?logo=krita)
     ![Static Badge](https://img.shields.io/badge/|-Inkscape-000000?logo=inkscape)
     ![Static Badge](https://img.shields.io/badge/|-Figma-F24E1E?logo=figma)
     
-## 🖥 Desktop / Cross-Platform
+#### 🖥 Desktop / Cross-Platform
 - ![Static Badge](https://img.shields.io/badge/Go%20GUI%20&%20Windows%20automation-Fyne+user32.dll(personal%20project(autoclicker))-00ADD8)
 - ![Static Badge](https://img.shields.io/badge/Python-Console%20Scripts(personal%20project)-3776AB)
 
