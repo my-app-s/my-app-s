@@ -44,10 +44,18 @@
 
 ---
 
-### Certificates
+## Pet Project
 
-#### Stepik
+### 💻 Web App
+- 2025 [WSEFW](https://my-app-s.github.io/WSEFW/)
 
+### 🤖 Telegram Bot
+- 2025 [GetVacanciesTBot](https://t.me/GetVacanciesTBot)
+- 2025 [StatisticTW](https://t.me/StatisticTWBot)
+
+## Certificates
+
+### Stepik
 - [x] 2021 [Программирование на Python](https://stepik.org/cert/1028496)
 - [x] 2024 [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641)
 - [x] 2025 [The English alphabet](https://stepik.org/cert/2899658)
@@ -57,8 +65,7 @@
 - [x] 2026 [Markdown syntax](https://stepik.org/cert/3117009)
 - [x] 2026 [Git and GitHub Basics](https://stepik.org/cert/3117145)
 
-#### Sololearn
-
+### Sololearn
 - [x] 2021 [COURSE CERTIFICATE SQL](https://www.sololearn.com/en/certificates/CT-NDOUR87X)
 - [x] 2021 [COURSE CERTIFICATE Python for Beginners](https://www.sololearn.com/en/certificates/CT-BQ6T9O18)
 - [x] 2021 [COURSE CERTIFICATE Python Core](https://www.sololearn.com/en/certificates/CT-KIWHL5L7)
@@ -68,16 +75,17 @@
 
 ---
 
-#### YandexPracticum
+## Yandex Practicum
 
-- Complete
-    - *"Создание Telegram-бота"*
-- learning, in proccess
-    - *"Go-разработчик с нуля"*
-    - *"Критическое мышление"*
+### ✅ Completed
+- (2026) *Создание Telegram-бота*
+
+### 🚧 In Progress
+- (2026) *Go-разработчик с нуля*
+- (2026) *Критическое мышление*
 
 ---
 
-##### *Follow me*
+#### *Follow me*
 
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
