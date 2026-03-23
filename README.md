@@ -97,10 +97,10 @@
 #### English
 - **License:** All code is subject to its respective license where applicable (e.g., AGPL-3.0). Otherwise, all rights reserved.
 - **Copyright:** Unauthorized copying or redistribution of any materials provided by **@my-app-s** is **strictly prohibited**.
-- **Liability:** Provided "as is" for educational purposes only. Use at your own risk. The author is not responsible for any damages.
+- **Liability:** Provided "as is". Use at your own risk. The author is not responsible for any damages.
 
 #### Русский
 - **Лицензия:** Весь код подчиняется соответствующим лицензиям, если они указаны (напр. AGPL-3.0). В противном случае — все права защищены.
 - **Авторское право:** Несанкционированное копирование или распространение любых материалов **@my-app-s** **строго запрещено**.
-- **Ответственность:** Материалы предоставляются «как есть» в учебных целях. Использование на свой страх и риск. Автор не несет ответственности за любые убытки.
+- **Ответственность:** Предоставляется «как есть». Использование на свой страх и риск. Автор не несет ответственности за любые убытки.
 </details>
