@@ -94,11 +94,13 @@
 <details>
 <summary>Click to view / Нажмите для просмотра</summary>
 
-All repositories and code provided by **@my-app-s** are for educational purposes only. 
-- **Copyright:** All rights reserved. Unauthorized copying is strictly prohibited.
-- **Liability:** Use at your own risk. The author is not responsible for any damages.
+#### English
+- **License:** All code is subject to its respective license where applicable (e.g., AGPL-3.0). Otherwise, all rights reserved.
+- **Copyright:** Unauthorized copying or redistribution of any materials provided by **@my-app-s** is **strictly prohibited**.
+- **Liability:** Provided "as is" for educational purposes only. Use at your own risk. The author is not responsible for any damages.
 
-Все материалы в данном профиле предоставляются «как есть» в учебных целях.
-- **Авторское право:** Все права защищены. Несанкционированное копирование строго запрещено.
-- **Ответственность:** Использование на свой страх и риск. Автор не несет ответственности за любые убытки.
+#### Русский
+- **Лицензия:** Весь код подчиняется соответствующим лицензиям, если они указаны (напр. AGPL-3.0). В противном случае — все права защищены.
+- **Авторское право:** Несанкционированное копирование или распространение любых материалов **@my-app-s** **строго запрещено**.
+- **Ответственность:** Материалы предоставляются «как есть» в учебных целях. Использование на свой страх и риск. Автор не несет ответственности за любые убытки.
 </details>
