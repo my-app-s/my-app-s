@@ -94,7 +94,7 @@
 <details>
 <summary>Click to view / Нажмите для просмотра</summary>
 
-All repositories and code provided by **@твой_ник** are for educational purposes only. 
+All repositories and code provided by **@my-app-s** are for educational purposes only. 
 - **Copyright:** All rights reserved. Unauthorized copying is strictly prohibited.
 - **Liability:** Use at your own risk. The author is not responsible for any damages.
 
