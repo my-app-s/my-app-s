@@ -86,3 +86,19 @@
 #### *Follow me*
 
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
+
+---
+
+### 🛡️ Legal Notice / Дисклеймер
+
+<details>
+<summary>Click to view / Нажмите для просмотра</summary>
+
+All repositories and code provided by **@твой_ник** are for educational purposes only. 
+- **Copyright:** All rights reserved. Unauthorized copying is strictly prohibited.
+- **Liability:** Use at your own risk. The author is not responsible for any damages.
+
+Все материалы в данном профиле предоставляются «как есть» в учебных целях.
+- **Авторское право:** Все права защищены. Несанкционированное копирование строго запрещено.
+- **Ответственность:** Использование на свой страх и риск. Автор не несет ответственности за любые убытки.
+</details>
