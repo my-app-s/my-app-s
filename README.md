@@ -61,6 +61,7 @@
 - [x] 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
 - [x] 2026 [Markdown syntax](https://stepik.org/cert/3117009)
 - [x] 2026 [Git and GitHub Basics](https://stepik.org/cert/3117145)
+- [x] 2026 [SQL Basics](https://stepik.org/cert/3193281)
 
 ### Sololearn
 - [x] 2021 [COURSE CERTIFICATE SQL](https://www.sololearn.com/en/certificates/CT-NDOUR87X)
