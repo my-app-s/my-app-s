@@ -52,6 +52,12 @@
 *   **[web-who-size](https://my-app-s.github.io/web-who-size/):** Шаблон размера на HTML.
 *   **[GetVacanciesTBot](https://t.me/GetVacanciesTBot):** Телеграм бот получения списка вакансий по запросу.
 *   **[StatisticTW](https://t.me/StatisticTWBot):** Телеграм бот таймеры для контроля времени.
+*   **[go-heart-bot](https://github.com/my-app-s/go-heart-bot):** Библиотека для упрощённого создания Telegram-ботов на языке Go.
+*   **[go-custom-router](https://github.com/my-app-s/go-custom-router):** Легкий, быстрый и устойчивый HTTP-роутер для приложений на Go.
+*   **[go-generator](https://github.com/my-app-s/go-generator):** Простой и быстрый генератор статических страниц, написанный на Go.
+*   **[go-bot-microservice](https://github.com/my-app-s/go-bot-microservice):** Go bot microservice(dev).
+*   **[portainer-stack](https://github.com/my-app-s/portainer-stack):** This is a recipe for deploy container portainer.
+*   **[postgresql-stack](https://github.com/my-app-s/postgresql-stack):** This is a recipe for deploy container postgresql and pgAdmin as tools.
 
 ## Certificates
 
