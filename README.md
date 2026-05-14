@@ -47,8 +47,13 @@
 *   **Creative:** Blender, Krita, Inkscape, Figma.
 
 ### 🖥 Проекты
+
 *   **Go:** GUI & Windows automation (Fyne + user32.dll) — Autoclicker.
 *   **Python:** Набор консольных скриптов для автоматизации.
+*   old project learning start
+    *   **[web-game-x-o](https://github.com/my-app-s/web-game-x-o)**
+    *   **[rb-method-declination](https://github.com/my-app-s/rb-method-declination)**
+    *   **[rb-when-the-nightingales-sing](https://github.com/my-app-s/rb-when-the-nightingales-sing)**
 *   **[web-who-size](https://my-app-s.github.io/web-who-size/):** Шаблон размера на HTML.
 *   **[GetVacanciesTBot](https://t.me/GetVacanciesTBot):** Телеграм бот получения списка вакансий по запросу.
 *   **[StatisticTW](https://t.me/StatisticTWBot):** Телеграм бот таймеры для контроля времени.
