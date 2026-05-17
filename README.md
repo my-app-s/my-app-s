@@ -105,13 +105,14 @@
 <details>
 <summary>Click to view / Нажмите для просмотра</summary>
 
-#### English
-- **License:** All code is subject to its respective license where applicable (e.g., AGPL-3.0). Otherwise, all rights reserved.
-- **Copyright:** Unauthorized copying or redistribution of any materials provided by **@my-app-s** is **strictly prohibited**.
-- **Liability:** Provided "as is". Use at your own risk. The author is not responsible for any damages.
+### English
 
-#### Русский
-- **Лицензия:** Весь код подчиняется соответствующим лицензиям, если они указаны (напр. AGPL-3.0). В противном случае — все права защищены.
-- **Авторское право:** Несанкционированное копирование или распространение любых материалов **@my-app-s** **строго запрещено**.
-- **Ответственность:** Предоставляется «как есть». Использование на свой страх и риск. Автор не несет ответственности за любые убытки.
-</details>
+* **License & Copyright:** All rights reserved by `@my-app-s`. Where explicitly stated, the code is distributed under its respective open-source license (e.g., GNU AGPLv3). In such cases, copying and redistribution are permitted strictly in compliance with that license's terms. Otherwise, unauthorized copying or redistribution is strictly prohibited.
+* **Liability:** Provided "as is". Use at your own risk. The author is not responsible for any damages or data loss.
+
+---
+
+### Русский
+
+* **Лицензирование и авторское право:** Все права защищены и принадлежат `@my-app-s`. В случаях, где это прямо указано, код распространяется на условиях соответствующих открытых лицензий (например, GNU AGPLv3) — тогда копирование и распространение разрешено строго в рамках условий этих лицензий. Во всех остальных случаях несанкционированное копирование или распространение материалов строго запрещено.
+* **Ответственность:** Предоставляется по принципу «как есть». Использование на ваш собственный страх и риск. Автор не несет ответственности за любые убытки или потерю данных.
