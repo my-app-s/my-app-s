@@ -106,17 +106,19 @@
 <summary>Click to view / Нажмите для просмотра</summary>
 
 #### English
-- **License:** Each repository or file is licensed as specified in its LICENSE file or header.  
-- **Copyright:** All rights reserved unless stated otherwise in the applicable license.  
-- **Usage:** Where open-source licenses (e.g., GNU AGPLv3) are applied, use and distribution are permitted under those terms.  
-- **Liability:** Provided "as is", without warranty of any kind. The author is not liable for any damages, including but not limited to data loss or service disruption.
-
----
+- **License Scope**: Each repository and file is licensed individually as specified in its own LICENSE file or header.
+- **License Priority**: The applicable LICENSE file takes precedence over any general notices or documentation.
+- **Open** Source Usage: Where an open-source license is explicitly applied (e.g. GNU AGPLv3, MIT), use, modification, and distribution are permitted strictly under that license terms.
+- **Copyright**: Unless explicitly stated otherwise, all rights are reserved by the author.
+- **Disclaimer**: All materials are provided “as is”, without warranties of any kind.
+- **Liability**: The author is not liable for any damages, including data loss, system failure, or service disruption resulting from the use of the materials.
 
 #### Русский
-- **Лицензия:** Каждый репозиторий или файл лицензируется в соответствии с указанным LICENSE или заголовком.  
-- **Авторское право:** Все права защищены, если иное не указано в применимой лицензии.  
-- **Использование:** При наличии открытых лицензий (например, GNU AGPLv3) использование и распространение разрешено в рамках их условий.  
-- **Ответственность:** Предоставляется «как есть», без каких-либо гарантий. Автор не несет ответственности за любые убытки, включая, но не ограничиваясь, потерей данных или сбоями в работе.
+- **Область лицензии**: Каждый репозиторий и файл лицензируется индивидуально согласно LICENSE или заголовку файла.
+- **Приоритет лицензии**: LICENSE имеет приоритет над любыми общими уведомлениями.
+- **Open-source использование**: При наличии открытой лицензии (например, GNU AGPLv3, MIT) использование и распространение допускается строго в рамках этой лицензии.
+- **Авторское право**: Если не указано иное, все права защищены за автором.
+- **Отказ от гарантий**: Материалы предоставляются «как есть» без каких-либо гарантий.
+- **Ответственность**: Автор не несёт ответственности за любые прямые или косвенные убытки, потерю данных или сбои.
 
 </details>
