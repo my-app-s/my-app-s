@@ -100,12 +100,10 @@
 
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
 
-<details>
-<summary>📜 Disclaimer</summary>
+## 📜 Disclaimer
 
 **English**: Materials are provided ***as is*** under the LICENSE file. No warranties, no rights granted unless explicitly stated. Authors are not liable for damages. No partnership or obligations created.  
 
 **Русский**: Материалы предоставляются ***как есть*** и регулируются LICENSE. Гарантий нет, права не передаются без явного указания. Автор(ы) не несут ответственности. Партнёрство или обязательства не создаются.  
 
 📌 See full disclaimer in [DISCLAIMER.md](./DISCLAIMER.md)
-</details>
