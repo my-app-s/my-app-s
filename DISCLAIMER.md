@@ -1,21 +1,31 @@
 # 📜 Repository Disclaimer
 
 ## English
-- **As Is**: Provided without warranties of any kind.
-- **License Priority**: LICENSE file governs; it overrides this disclaimer.
-- **Open Source**: Use allowed strictly under the stated license.
-- **Proprietary/Private**: Otherwise all rights reserved; private content is confidential.
-- **No Rights Granted**: No IP rights unless explicitly stated.
-- **No Partnership**: Use does not create partnership, employment, or service relationship.
-- **Liability**: The author(s) and/or organization are not liable for any direct, indirect, incidental, consequential, or special damages, including but not limited to loss of data, security breaches, system failures, business interruption, financial losses, or any other adverse outcomes arising from the use of the repositories, code, documentation, or related content.
-- **Independent Development**: This project is an independent development, not affiliated with any organization, unless explicitly stated.
+- **Independent Development**: This project is an independent development, not affiliated with any organization, unless explicitly stated.  
+- **As Is**: Provided without warranties of any kind.  
+- **License Priority**: LICENSE file governs; it overrides this disclaimer.  
+- **Open Source**: Use allowed strictly under the stated license.  
+- **Proprietary/Private**: Otherwise all rights reserved; private content is confidential.  
+- **No Rights Granted**: No IP rights unless explicitly stated.  
+- **No Partnership**: Use does not create partnership, employment, service, or support obligations.  
+- **Liability**: The author(s) and/or organization are not liable for any direct, indirect, incidental, consequential, or special damages, including but not limited to loss of data, security breaches, system failures, business interruption, financial losses, or any other adverse outcomes arising from the use of the repositories, code, documentation, or related content.  
 
 ## Русский
-- **Как есть**: Материалы предоставляются без гарантий.
-- **Приоритет LICENSE**: Файл LICENSE имеет приоритет над данным дисклеймером.
-- **Open-source**: Использование строго в рамках указанной лицензии.
-- **Проприетарные/Приватные**: Иные материалы защищены, приватные — конфиденциальны.
-- **Права не передаются**: Интеллектуальные права не передаются без явного указания.
-- **Нет партнёрства**: Использование не создаёт отношений партнёрства, найма или услуг.
-- **Ответственность**: Автор(ы) и/или организация не несут ответственности за любые прямые, косвенные, случайные, последующие или особые убытки, включая, но не ограничиваясь: утратой данных, нарушением безопасности, сбоями систем, прерыванием деятельности, финансовыми потерями или любыми другими неблагоприятными последствиями, возникающими при использовании репозиториев, кода, документации или связанных материалов.
-- **Независимая разработка**: Проект является независимой разработкой и не связан с какой‑либо организацией, если это явно не указано.
+- **Независимая разработка**: Проект является независимой разработкой и не связан с какой‑либо организацией, если это явно не указано.  
+- **Как есть**: Материалы предоставляются без гарантий.  
+- **Приоритет LICENSE**: Файл LICENSE имеет приоритет над данным дисклеймером.  
+- **Open‑source**: Использование строго в рамках указанной лицензии.  
+- **Проприетарные/Приватные**: Иные материалы защищены, приватные — конфиденциальны.  
+- **Права не передаются**: Интеллектуальные права не передаются без явного указания.  
+- **Нет партнёрства**: Использование не создаёт отношений партнёрства, найма, услуг или обязательств поддержки.  
+- **Ответственность**: Автор(ы) и/или организация не несут ответственности за любые прямые, косвенные, случайные, последующие или особые убытки, включая, но не ограничиваясь: утратой данных, нарушением безопасности, сбоями систем, прерыванием деятельности, финансовыми потерями или любыми другими неблагоприятными последствиями, возникающими при использовании репозиториев, кода, документации или связанных материалов.  
+
+---
+
+## 📜 Disclaimer (README вставка)
+
+**English**: Materials are provided ***as is*** under the LICENSE file. No warranties, no rights granted unless explicitly stated. Authors are not liable for damages. No partnership or obligations created.  
+
+**Русский**: Материалы предоставляются ***как есть*** и регулируются LICENSE. Гарантий нет, права не передаются без явного указания. Автор(ы) не несут ответственности. Партнёрство или обязательства не создаются.  
+
+📌 See full disclaimer in [DISCLAIMER.md](https://github.com/my-app-s/my-app-s/blob/main/DISCLAIMER.md)
