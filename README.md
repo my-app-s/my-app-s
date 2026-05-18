@@ -105,14 +105,18 @@
 <details>
 <summary>Click to view / Нажмите для просмотра</summary>
 
-### English
-
-* **License & Copyright:** All rights reserved by `@my-app-s`. Where explicitly stated, the code is distributed under its respective open-source license (e.g., GNU AGPLv3). In such cases, copying and redistribution are permitted strictly in compliance with that license's terms. Otherwise, unauthorized copying or redistribution is strictly prohibited.
-* **Liability:** Provided "as is". Use at your own risk. The author is not responsible for any damages or data loss.
+#### English
+- **License:** Each repository or file is licensed as specified in its LICENSE file or header.  
+- **Copyright:** All rights reserved unless stated otherwise in the applicable license.  
+- **Usage:** Where open-source licenses (e.g., GNU AGPLv3) are applied, use and distribution are permitted under those terms.  
+- **Liability:** Provided "as is", without warranty of any kind. The author is not liable for any damages, including but not limited to data loss or service disruption.
 
 ---
 
-### Русский
+#### Русский
+- **Лицензия:** Каждый репозиторий или файл лицензируется в соответствии с указанным LICENSE или заголовком.  
+- **Авторское право:** Все права защищены, если иное не указано в применимой лицензии.  
+- **Использование:** При наличии открытых лицензий (например, GNU AGPLv3) использование и распространение разрешено в рамках их условий.  
+- **Ответственность:** Предоставляется «как есть», без каких-либо гарантий. Автор не несет ответственности за любые убытки, включая, но не ограничиваясь, потерей данных или сбоями в работе.
 
-* **Лицензирование и авторское право:** Все права защищены и принадлежат `@my-app-s`. В случаях, где это прямо указано, код распространяется на условиях соответствующих открытых лицензий (например, GNU AGPLv3) — тогда копирование и распространение разрешено строго в рамках условий этих лицензий. Во всех остальных случаях несанкционированное копирование или распространение материалов строго запрещено.
-* **Ответственность:** Предоставляется по принципу «как есть». Использование на ваш собственный страх и риск. Автор не несет ответственности за любые убытки или потерю данных.
+</details>
