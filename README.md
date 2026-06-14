@@ -5,8 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,js,ruby,java,django,postgres,linux,docker,git,bash,html,css,figma,blender,krita,inkscape"/>
+  <img src="https://skillicons.dev/icons?i=go,py,postgres,linux,docker,git,bash"/>
 </p>
+
+# Junior Go Developer | Infrastructure & AI-Driven Engineering
+
+Бэкенд-разработчик на **Go** с глубоким бэкграундом в системном администрировании, компьютерных сетях и Linux. 
+
+В разработке совмещаю фундаментальные инженерные знания системного инженера и современные подходы автоматизации. Активно использую **AI-assisted development** (Cursor, AI-агенты) для кратного ускорения написания рутинного кода, фокусируясь на проектировании архитектуры, оптимизации запросов к БД и обеспечении стабильности сервисов.
+
+---
 
 ### 📊 System Metrics & Activity
 <p align="center">
@@ -34,66 +42,59 @@
   </table>
 </div>
 
-## Aspiring Full-Stack & Multi-Platform Developer | Go & Python — personal & learning projects
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=322d2dff&vCenter=true&random=true&width=670&lines=I+strive+to+reach+the+professional+level.;I+write+code+that+works%2C+not+just+runs.;I+think+like+an+engineer%2C+not+like+a+self-taught+person.)](https://git.io/typing-svg)
+---
 
 ### 💻 Стек и Инструменты
 
-*   **Languages:** Learning **Go**, familiar with **Python**, **JavaScript**, **Ruby**, and **Java**.
-*   **Backend:** REST API & Django.
-*   **Frontend:** HTML5 & CSS.
-*   **Database:** PostgreSQL.
-*   **DevOps:** Linux, Docker, Git, and Bash.
-*   **Creative:** Blender, Krita, Inkscape, Figma.
+*   **Languages:** Go (основной), Python (скрипты/автоматизация).
+*   **Backend & API:** REST API, HTTP Routers, Clean Architecture.
+*   **Database:** PostgreSQL (проектирование, пул соединений, SQL).
+*   **DevOps & Infrastructure:** Linux, Docker, Portainer, Git, Bash, TCP/IP, Маршрутизация.
+*   **AI & Productivity:** Cursor, LLM Prompt Engineering, Orchestration of AI Agents.
 
-### 🖥 Проекты
+---
 
-*   **Go:** GUI & Windows automation (Fyne + user32.dll) — Autoclicker.
-*   **Python:** Набор консольных скриптов для автоматизации.
-*   old project learning start
-    *   **[web-game-x-o](https://github.com/my-app-s/web-game-x-o)**
-    *   **[rb-method-declination](https://github.com/my-app-s/rb-method-declination)**
-    *   **[rb-when-the-nightingales-sing](https://github.com/my-app-s/rb-when-the-nightingales-sing)**
-*   **[web-who-size](https://my-app-s.github.io/web-who-size/):** Шаблон размера на HTML.
-*   **[GetVacanciesTBot](https://t.me/GetVacanciesTBot):** Телеграм бот получения списка вакансий по запросу.
-*   **[StatisticTW](https://t.me/StatisticTWBot):** Телеграм бот таймеры для контроля времени.
-*   **[go-heart-bot](https://github.com/my-app-s/go-heart-bot):** Библиотека для упрощённого создания Telegram-ботов на языке Go.
-*   **[go-custom-router](https://github.com/my-app-s/go-custom-router):** Легкий, быстрый и устойчивый HTTP-роутер для приложений на Go.
-*   **[go-generator](https://github.com/my-app-s/go-generator):** Простой и быстрый генератор статических страниц, написанный на Go.
-*   **[go-bot-microservice](https://github.com/my-app-s/go-bot-microservice):** Go bot microservice(dev).
-*   **[portainer-stack](https://github.com/my-app-s/portainer-stack):** This is a recipe for deploy container portainer.
-*   **[postgresql-stack](https://github.com/my-app-s/postgresql-stack):** This is a recipe for deploy container postgresql and pgAdmin as tools.
+### 🖥 Ключевые проекты (Go & DevOps)
 
-## 🎓 Certificates & Education
+#### 🚀 Backend & Microservices
+*   **[go-bot-microservice](https://github.com/my-app-s/go-bot-microservice)** — Разработка архитектуры микросервиса на Go. Интеграция с СУБД, изоляция окружения.
+*   **[go-custom-router](https://github.com/my-app-s/go-custom-router)** — Легкий, быстрый и устойчивый HTTP-роутер для Go-приложений. Изучение логики работы стандартной библиотеки `net/http` и алгоритмов маршрутизации.
+*   **[go-generator](https://github.com/my-app-s/go-generator)** — Высокопроизводительный генератор статических страниц на Go. Работа с файловой системой и структурами данных.
 
-### 🚧 In Progress
-- [ ] 2026 *Go-разработчик с нуля* — Yandex Practicum
-- [ ] 2026 *Философия DevOps* — Yandex Practicum
-- [ ] 2026 *Гибкие методологии в работе над продуктом* — Yandex Practicum
+#### 🛠 Packages & Libraries
+*   **[go-heart-bot](https://github.com/my-app-s/go-heart-bot)** — Кастомная библиотека/обертка для упрощенного создания и конфигурации Telegram-ботов на Go.
+
+#### 🐋 Infrastructure as Code (DevOps)
+*   **[postgresql-stack](https://github.com/my-app-s/postgresql-stack)** — Готовое инфраструктурное решение (рецепт) для развертывания контейнеризованной PostgreSQL в связке с pgAdmin.
+*   **[portainer-stack](https://github.com/my-app-s/portainer-stack)** — Шаблон автоматизированного развертывания Portainer для управления Docker-контейнерами.
+
+---
+
+## 🎓 Сертификаты и Образование
+
+### 🚧 В процессе (2026)
+- [ ] *Go-разработчик* — Yandex Practicum
+- [ ] *Философия DevOps* — Yandex Practicum
 
 ### 🏢 Yandex Practicum (Completed)
-- [x] 2026 *Создание Telegram-бота*
-- [x] 2026 *Критическое мышление*
+- [x] 2026 *Создание Telegram-бота на практике*
 
-### 🪜 Stepik
+### 🪜 Stepik & Профильные курсы
 - [x] 2026 [Git and GitHub Basics](https://stepik.org/cert/3117145)
+- [x] 2026 [SQL Basics](https://stepik.org/) *(Вставь сюда прямую ссылку на свой SQL сертификат)*
 - [x] 2025 [Programming in Golang](https://stepik.org/cert/2981157)
 - [x] 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
-- [x] 2025 [Software testing from scratch. Theory + Practice](https://stepik.org/cert/2827910)
 - [x] 2024 [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641)
 - [x] 2021 [Программирование на Python](https://stepik.org/cert/1028496)
 
-### 🎯 Sololearn
-- [x] 2022 [COURSE CERTIFICATE Intermediate Python](https://www.sololearn.com/en/certificates/CT-K5PCIELQ)
-- [x] 2021 [COURSE CERTIFICATE Python Core](https://www.sololearn.com/en/certificates/CT-KIWHL5L7)
-- [x] 2021 [COURSE CERTIFICATE SQL](https://www.sololearn.com/en/certificates/CT-NDOUR87X)
-- [x] 2021 [COURSE CERTIFICATE HTML](https://www.sololearn.com/en/certificates/CT-ETRVSDXT)
-- [x] 2021 [COURSE CERTIFICATE CSS](https://www.sololearn.com/en/certificates/CT-PNPTUELV)
+---
 
-#### *Follow me*
+#### 📬 Контакты & Профили
 
-[![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
 [![Static Badge](https://img.shields.io/badge/DockerHub-24214e?logo=docker)](https://app.docker.com/accounts/myappsdev)
+[![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
+
+---
 
 ## 📜 Disclaimer
 
