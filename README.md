@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=my-app-s&label=Profile%20views&color=0e75b6&style=flat" alt="my-app-s" /></p>
-
 <p align="center">
     <a href="https://www.behance.net/StudioMRE" alt="Not found"><img src="https://github.com/my-app-s/my-app-s/blob/main/assets/00000008%20image%20from%20ln%2096DPI%20export.png"></a>
 </p>
@@ -14,6 +12,11 @@
 
 ## Go Backend Developer
 
+Backend developer with 7+ years of infrastructure engineering experience, focused on building reliable Go backend services.
+
+Interested in Go, PostgreSQL, networking, containerization, and distributed systems.
+
+### 📊 System Metrics & Activity
 <div align="center">
   <table border="0" width="100%" style="max-width: 900px;">
     <tr>
@@ -45,34 +48,41 @@
 
 ---
 
-## 🎓 Сертификаты и Образование
+## Current Focus
 
-### Образование
-- Bachelor of Information Systems
-
-### 🚧 В процессе (2026)
-- [ ] *Go-разработчик* — Yandex Practicum (дипломный проект защищён, сертификат ожидается)
-- [ ] *Философия DevOps* — Yandex Practicum
-
-### 🪜 Stepik & Профильные курсы
-- [x] 2026 [SQL Basics](https://stepik.org/cert/3193281)
-- [x] 2025 [Programming in Golang](https://stepik.org/cert/2981157)
-- [x] 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
-- [x] 2024 [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641)
+- Go
+- PostgreSQL
+- Concurrency
+- Testing
+- Distributed Systems
 
 ---
 
-### 📬 Контакты & Профили
+### 📬 Контакты
 
 [![Static Badge](https://img.shields.io/badge/DockerHub-24214e?logo=docker)](https://app.docker.com/accounts/myappsdev)
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
 
 ---
 
+## 🎓 Сертификаты и Образование
+
+### Образование
+- Bachelor of Information Systems
+
+### 🚧 Professional Development
+- *Go-разработчик* — Yandex Practicum (дипломный проект защищён, сертификат ожидается)
+
+### 🪜 Профильные курсы
+- 2026 [SQL Basics](https://stepik.org/cert/3193281)
+- 2025 [Programming in Golang](https://stepik.org/cert/2981157)
+- 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
+- 2024 [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641)
+
+---
+
 ## 📜 Disclaimer
 
-**English**: Materials are provided ***as is*** under the LICENSE file. No warranties, no rights granted unless explicitly stated. Authors are not liable for damages. No partnership or obligations created.  
+Materials are provided ***as is*** under the terms of the LICENSE file. No warranties are provided. The authors are not liable for any damages.
 
-**Русский**: Материалы предоставляются ***как есть*** и регулируются LICENSE. Гарантий нет, права не передаются без явного указания. Автор(ы) не несут ответственности. Партнёрство или обязательства не создаются.  
-
-📌 See full disclaimer in [DISCLAIMER.md](./DISCLAIMER.md)
+📌 See the full disclaimer in [DISCLAIMER.md](./DISCLAIMER.md)
