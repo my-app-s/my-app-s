@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.behance.net/StudioMRE" alt="Not found"><img src="https://github.com/my-app-s/my-app-s/blob/main/assets/00000008%20image%20from%20ln%2096DPI%20export.png"></a>
+    <a href="https://www.behance.net/StudioMRE" alt="Not found" target="_blank" rel="noopener noreferrer"><img src="https://github.com/my-app-s/my-app-s/blob/main/assets/00000008%20image%20from%20ln%2096DPI%20export.png"></a>
 </p>
 
 <p align="center">
