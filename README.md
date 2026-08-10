@@ -71,7 +71,7 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 - Bachelor of Information Systems
 
 ### 🚧 Professional Development
-- *Go-разработчик* — Yandex Practicum (дипломный проект защищён, сертификат ожидается)
+- *Go-разработчик* — Yandex Practicum (дипломный проект защищён, сертификат получен)
 
 ### 🪜 Профильные курсы
 - 2026 [SQL Basics](https://stepik.org/cert/3193281)
