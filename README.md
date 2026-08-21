@@ -37,7 +37,12 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 #### 🚀 Backend & Microservices
 *   **[go-bot-microservice](https://github.com/my-app-s/go-bot-microservice)** — Telegram Bot microservice written in Go using PostgreSQL and Docker.
 *   **[go-custom-router](https://github.com/my-app-s/go-custom-router)** — Собственная реализация HTTP-роутера с поддержкой маршрутизации и использованием net/http.
-*   **[go-generator](https://github.com/my-app-s/go-generator)** — Генератор статических страниц на Go с использованием шаблонов и файловой системы.
+*   **[go-generator](https://github.com/my-app-s/go-generator)** — собственный инструмент для генерации статических сайтов на Go.  
+  - Реализована поддержка шаблонов (`html/template`) и динамическая подстановка данных из `config.json`.  
+  - Автоматическая конвертация `README.md` в HTML через библиотеку `gomarkdown`.  
+  - Сборка итогового сайта в папку `dist` с готовым `index.html`.  
+  - Используется в CI/CD пайплайне для деплоя на GitHub Pages.  
+  - Позволяет быстро собирать лендинги и документацию без внешних генераторов.
 
 #### 🛠 Packages & Libraries
 *   **[go-heart-bot](https://github.com/my-app-s/go-heart-bot)** — Кастомная библиотека/обертка для упрощенного создания и конфигурации Telegram-ботов на Go.
