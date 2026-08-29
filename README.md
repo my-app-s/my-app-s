@@ -50,7 +50,14 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 
 #### 🐋 Infrastructure as Code (DevOps)
 *   **[postgresql-stack](https://github.com/my-app-s/postgresql-stack)** — Готовое инфраструктурное решение (Docker Compose стек) для развертывания контейнеризованной PostgreSQL в связке с pgAdmin.
-*   **[portainer-stack](https://github.com/my-app-s/portainer-stack)** — Docker Compose шаблон для развертывания Portainer.
+*   **[portainer-stack](https://github.com/my-app-s/portainer-stack)** — This repository provides a modular and secure Docker Compose template for deploying **Portainer CE** (Community Edition). Designed with a dual-mode architecture, it bridges the gap between simple local development and robust production environments.
+    * **Key Features:**
+        * **Dual Deployment Modes:** Choose how to expose Portainer using Docker Compose profiles:
+            * **Direct Access Mode (Default):** Runs out-of-the-box on a standalone bridge network with a direct port mapping (`9000`), perfect for local testing or homelabs.
+            * **Traefik Reverse Proxy Mode (`--profile traefik`):** Connects to an external Traefik edge router via a shared network, enabling automatic hostname-based routing and Let's Encrypt SSL/TLS certificate generation.
+        * **Security Hardened:** Includes best practices out of the box, such as container privilege escalation protection (`no-new-privileges:true`) and health checks.
+        * **Data Persistence:** Uses a named Docker volume (`portainer_data_volume`) to ensure that user accounts, configurations, and internal states are safely preserved across stack re-creations or image updates.
+        * **Fully Documented:** Complete with environment variable guides, network architecture overviews, and Traefik routing explanations to make setup and maintenance seamless.
 
 ---
 
