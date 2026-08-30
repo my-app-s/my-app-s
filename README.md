@@ -85,7 +85,10 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 - 2018 Bachelor of Information Systems
 
 ### 🚧 Professional Development
-- 2026 *Go-разработчик* — Yandex Practicum (дипломный проект защищён, сертификат получен)
+- 2026 *Go-разработчик с нуля* — Yandex Practicum
+  - Организация: [learning-go-developer](https://github.com/learning-go-developer)
+  - Статус: Дипломный проект защищён, сертификат получен (2026)
+  - Описание: Учебные проекты, практические задания и дипломная работа, выполненные в рамках курса по разработке на Go.
 
 ### 🪜 Профильные курсы
 - 2026 [SQL Basics](https://stepik.org/cert/3193281)
@@ -93,10 +96,6 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 - 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
 - 2024 [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641)
 
----
-
-## 📜 Disclaimer
-
-Materials are provided ***as is*** under the terms of the LICENSE file. No warranties are provided. The authors are not liable for any damages.
-
-📌 See the full disclaimer in [DISCLAIMER.md](./DISCLAIMER.md)
+## 🏢 Организации(Изолированные среды)
+* [learning-go-developer](https://github.com/learning-go-developer) — Yandex Practicum
+* [learning-vibe-coding](https://github.com/learning-vibe-coding) — пространство для экспериментов и песочниц в стиле vibe-coding
