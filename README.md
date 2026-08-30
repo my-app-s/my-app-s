@@ -10,13 +10,14 @@
   Go • PostgreSQL • REST API • Docker • Linux • Git • Bash • Python
 </p>
 
-## Go Backend Developer
+# Go Backend Developer
 
 Backend developer with 7+ years of infrastructure engineering experience, focused on building reliable Go backend services.
 
 Interested in Go, PostgreSQL, networking, containerization, and distributed systems.
 
-### 📊 System Metrics & Activity
+## 📊 System Metrics & Activity
+
 <div align="center">
   <table border="0" width="100%" style="max-width: 900px;">
     <tr>
@@ -62,7 +63,6 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 ---
 
 ## Current Focus
-
 - Go
 - PostgreSQL
 - Concurrency
@@ -72,7 +72,6 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 ---
 
 ### 📬 Контакты
-
 [![Static Badge](https://img.shields.io/badge/DockerHub-24214e?logo=docker)](https://app.docker.com/accounts/myappsdev)
 [![Static Badge](https://img.shields.io/badge/Behance-24214e?logo=behance)](https://www.behance.net/StudioMRE)
 [![Static Badge](https://img.shields.io/badge/Gmail-24214e?logo=gmail)](mailto:myapps.mre.dev@gmail.com)
@@ -84,10 +83,9 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 ### Образование
 - 2018 Bachelor of Information Systems
 
-### 🚧 Профессиональное образование и курсы
-
-* **Go-разработчик с нуля** — Яндекс Практикум *(Дипломный проект защищён, сертификат получен)*
-* **Дополнительные курсы от Яндекса:**
+### 🚧 Профессиональная переподготовка
+* **Go-разработчик с нуля** — Яндекс Практикум *(Дипломный проект защищён, получен сертификат о переподготовке, 2026)*
+* **Дополнительные курсы (Яндекс Практикум):**
   * Создание Telegram-бота
   * Философия DevOps
   * Гибкие методологии в работе над продуктом
@@ -97,6 +95,3 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
   * [PRO Go. Основы программирования](https://stepik.org/cert/2950603) *(с отличием)*
   * [Программирование на Golang](https://stepik.org/cert/2981157) *(с отличием)*
   * [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641) *(с отличием)*
-  * [Введение в SQL](https://stepik.org/cert/3193281) *(с отличием)*
-  * [Основы Git и GitHub](https://stepik.org/cert/3117145) *(с отличием)*
-  * [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2827910) *(с отличием)*
