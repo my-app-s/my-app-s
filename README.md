@@ -84,18 +84,19 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
 ### Образование
 - 2018 Bachelor of Information Systems
 
-### 🚧 Professional Development
-- 2026 *Go-разработчик с нуля* — Yandex Practicum
-  - Организация: [learning-go-developer](https://github.com/learning-go-developer)
-  - Статус: Дипломный проект защищён, сертификат получен (2026)
-  - Описание: Учебные проекты, практические задания и дипломная работа, выполненные в рамках курса по разработке на Go.
+### 🚧 Профессиональное образование и курсы
 
-### 🪜 Профильные курсы
-- 2026 [SQL Basics](https://stepik.org/cert/3193281)
-- 2025 [Programming in Golang](https://stepik.org/cert/2981157)
-- 2025 [PRO Go. Основы программирования](https://stepik.org/cert/2950603)
-- 2024 [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641)
+* **Go-разработчик с нуля** — Яндекс Практикум *(Дипломный проект защищён, сертификат получен)*
+* **Дополнительные курсы от Яндекса:**
+  * Создание Telegram-бота
+  * Философия DevOps
+  * Гибкие методологии в работе над продуктом
+  * Критическое мышление
 
-## 🏢 Организации(Изолированные среды)
-* [learning-go-developer](https://github.com/learning-go-developer) — Yandex Practicum
-* [learning-vibe-coding](https://github.com/learning-vibe-coding) — пространство для экспериментов и песочниц в стиле vibe-coding
+* **Профильные сертификаты (Stepik):**
+  * [PRO Go. Основы программирования](https://stepik.org/cert/2950603) *(с отличием)*
+  * [Программирование на Golang](https://stepik.org/cert/2981157) *(с отличием)*
+  * [Docker для начинающих + практический опыт](https://stepik.org/cert/2532641) *(с отличием)*
+  * [Введение в SQL](https://stepik.org/cert/3193281) *(с отличием)*
+  * [Основы Git и GitHub](https://stepik.org/cert/3117145) *(с отличием)*
+  * [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2827910) *(с отличием)*
