@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,postgres,linux,docker,git,bash"/>
+  <img src="https://skillicons.dev/icons?i=go,postgres,linux,docker,git,bash"/>
 </p>
 
 <p align="center">
-  Go • PostgreSQL • REST API • Docker • Linux • Git • Bash • Python
+  Go • PostgreSQL • REST API • Docker • Linux • Git • Bash
 </p>
 
 # Go Backend Developer
