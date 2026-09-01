@@ -45,6 +45,7 @@ Interested in Go, PostgreSQL, networking, containerization, and distributed syst
     - Используется в CI/CD пайплайне для деплоя на GitHub Pages.  
     - Позволяет быстро собирать лендинги и документацию без внешних генераторов.
     - Есть возможность использования как GitHub Action
+*   **[go-api-ping](https://github.com/my-app-s/go-api-ping)** — High-performance Go API monitoring service with SSRF protection, concurrent workers, scratch Docker deployment, and Tailwind UI. Deployed on Render.
 
 #### 🛠 Packages & Libraries
 *   **[go-heart-bot](https://github.com/my-app-s/go-heart-bot)** — Кастомная библиотека/обертка для упрощенного создания и конфигурации Telegram-ботов на Go.
