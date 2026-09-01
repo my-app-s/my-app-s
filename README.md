@@ -16,6 +16,8 @@ Backend developer with 7+ years of infrastructure engineering experience, focuse
 
 Interested in Go, PostgreSQL, networking, containerization, and distributed systems.
 
+☁️ **Hosting & Deployment**: Render, Docker Hub, GitHub Actions (CI/CD)
+
 ## 📊 System Metrics & Activity
 
 <div align="center">
